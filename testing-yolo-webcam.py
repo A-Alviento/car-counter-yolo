@@ -12,7 +12,7 @@ cap.set(3, 1280)
 cap.set(4, 720)
 
 # for video file
-#cap = cv2.VideoCapture("../Videos/motorbikes.mp4")
+#cap = cv2.VideoCapture("../Videos/cars.mp4")
 
 # load the yolov8 detection model
 model = YOLO("../weights/yolov8l.pt")
