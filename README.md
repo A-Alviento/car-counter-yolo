@@ -21,19 +21,7 @@ Note: I used python 3.9.12
     cd car-counter-yolo
     ```
    
-3. A virtual environment is recommended to keep dependencies required by different projects separate. You can create a virtual environment using the following command:
-    ```
-    python -m venv env
-    ```
-    And activate the virtual environment:
-    - On Windows:
-    ```
-    .\env\Scripts\activate
-    ```
-    - On Unix or Linux:
-    ```
-    source env/bin/activate
-    ```
+3. A virtual environment is recommended to keep dependencies required by different projects separate. 
 
 4. Install the required dependencies
     ```
