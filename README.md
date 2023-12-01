@@ -51,4 +51,4 @@ After verifying the installation, you can now run the main project script:
 
 ## Acknowledgements
 
-This project is inspired by and follows the tutorial from [this YouTube video](https://www.youtube.com/watch?v=WgPbbWmnXJ8&t=90s).
+* This project is inspired by and follows the tutorial from [this YouTube video](https://www.youtube.com/watch?v=WgPbbWmnXJ8&t=90s).
